@@ -7,7 +7,7 @@
      <h1> Welcome to my website!</h1>
      <ul>
          <li><a href="index.php">HOME</a></li>
-         <li><a href="/GroupAct/MyWebpage.html">MyWebpage</a></li>
+         <li><a href="/GroupAct/index.html">MyWebpage</a></li>
     </ul>
     </body>
 </html>
