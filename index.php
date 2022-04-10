@@ -1,7 +1,7 @@
 <html>
 <head>
       <title> FREEDOM </title>
-      <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+     <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
 </head>
 <body>
 	<header>
